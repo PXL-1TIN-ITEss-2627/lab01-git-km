@@ -1,6 +1,6 @@
 # Our Team Top 10
 
-1. CharlieKirk
+1. Kleine Kobe
 2. TBD
 3. TBD
 4. TBD
