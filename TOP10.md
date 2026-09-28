@@ -1,19 +1,16 @@
 # Our Team Top 10
 
-<<<<<<< HEAD
-1. Donald duck
-=======
-1. Mylo willmes
->>>>>>> 1dd8e9cc79dc07316f0fb021aa2d0d219a3a1fec
-2. TBD
-3. TBD
-4. TBD
-5. TBD
-6. TBD
-7. TBD
-8. TBD
-9. TBD
-10. TBD
+1. Kobe
+2. Ibe
+3. Mylo
+4. Jasper
+5. Hamza
+6. Motaz
+7. Yahiya
+8. Yasmine
+9. luc
+10. Mica
+11. Milo/Eviltwin = Mylo/LaPeace
 
 ---
 
