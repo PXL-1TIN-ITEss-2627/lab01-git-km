@@ -1,6 +1,10 @@
 # Our Team Top 10
 
+<<<<<<< HEAD
 1. Donald duck
+=======
+1. Mylo willmes
+>>>>>>> 1dd8e9cc79dc07316f0fb021aa2d0d219a3a1fec
 2. TBD
 3. TBD
 4. TBD
