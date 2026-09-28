@@ -1,6 +1,10 @@
 # Our Team Top 10
 
+<<<<<<< HEAD
 1. Kleine Kobe
+=======
+1. Mylo Fucking Willems
+>>>>>>> 3f526bf3e7a5e3b071c76ecb2664f54431348044
 2. TBD
 3. TBD
 4. TBD
